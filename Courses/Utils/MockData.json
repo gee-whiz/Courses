@@ -1,0 +1,125 @@
+[{
+    "name": "Featured",
+    "items": [
+        {
+            "name": "Podcast & YouTube Monetization",
+            "imageUrl": "podcasts",
+            "lessons": [{
+                "name": "Introduction",
+                "description": "Lorem Ipsum is simply dummy text of the printing and typesetting",
+                "videoUrl": "https://www.radiantmediaplayer.com/media/bbb-360p.mp4"
+            },
+            {
+                "name": "Podcast 101",
+                "description": "Lorem Ipsum is simply dummy text of the printing and typesetting",
+                "videoUrl": "https://www.radiantmediaplayer.com/media/bbb-360p.mp4"
+            },
+            {
+                "name": "YouTube 101",
+                "description": "Lorem Ipsum is simply dummy text of the printing and typesetting",
+                "videoUrl": "https://www.radiantmediaplayer.com/media/bbb-360p.mp4"
+            },
+            {
+                "name": "Podcast 102",
+                "description": "Lorem Ipsum is simply dummy text of the printing and typesetting",
+                "videoUrl": "https://www.radiantmediaplayer.com/media/bbb-360p.mp4"
+            }
+            ]
+        },
+
+        {
+            "name": "Design Basics for Beginners",
+            "imageUrl": "design",
+            "lessons": [{
+                "name": "Introduction",
+                "description": "Lorem Ipsum is simply dummy text of the printing and typesetting",
+                "videoUrl": "https://www.radiantmediaplayer.com/media/bbb-360p.mp4"
+            }]},
+        {
+            "name": "Facebook Ads and Marketing",
+            "imageUrl": "facebook",
+            "lessons": [{
+                "name": "Introduction",
+                "description": "Lorem Ipsum is simply dummy text of the printing and typesetting",
+                "videoUrl": "https://www.radiantmediaplayer.com/media/bbb-360p.mp4"
+            }]
+        },
+
+
+    ]
+},
+{
+    "name": "Most Popular",
+    "items": [{
+        "name": "Basic Skills",
+        "imageUrl": "basics",
+        "lessons": [{
+            "name": "How to build a List",
+            "description": "How to build a list using SwiftUi",
+            "videoUrl": "https://www.radiantmediaplayer.com/media/bbb-360p.mp4"
+        },
+        {
+            "name": "How to create and combine views",
+            "description": "Learn how to create and combine views using SwiftUI.",
+            "videoUrl": "http://clips.vorwaerts-gmbh.de/big_buck_bunny.mp4"
+        },
+        {
+            "name": "How to build a grid view",
+            "description": "Learn how to build a grid view using SwiftUI",
+            "videoUrl": "https://www.radiantmediaplayer.com/media/bbb-360p.mp4"
+        }
+        ]
+    },
+    {
+        "name": "Social Marketing",
+        "imageUrl": "seo",
+        "lessons": [{
+            "name": "Introduction",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting",
+            "videoUrl": "https://www.radiantmediaplayer.com/media/bbb-360p.mp4"
+        }]
+    },
+    {
+        "name": "Fashion Marketing",
+        "imageUrl": "fashion",
+        "lessons": [{
+            "name": "Introduction",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting",
+            "videoUrl": "https://www.radiantmediaplayer.com/media/bbb-360p.mp4"
+        }]
+    }
+    ]
+},
+{
+    "name": "Our top picks for you",
+    "items": [{
+        "name": "iOS Development",
+        "imageUrl": "ios",
+        "lessons": [{
+            "name": "Introduction",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting",
+            "videoUrl": "https://www.radiantmediaplayer.com/media/bbb-360p.mp4"
+        }]
+    },
+    {
+        "name": "Investing in Stock - Complete course",
+        "imageUrl": "investing",
+        "lessons": [{
+            "name": "Introduction",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting",
+            "videoUrl": "https://www.radiantmediaplayer.com/media/bbb-360p.mp4"
+        }]
+    },
+    {
+        "name": "Mongo DB - Complete guide",
+        "imageUrl": "mongo",
+        "lessons": [{
+            "name": "Introduction",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting",
+            "videoUrl": "https://www.radiantmediaplayer.com/media/bbb-360p.mp4"
+        }]
+    }
+    ]
+
+}
+]
